@@ -1,5 +1,5 @@
 # “小红”操作系统设计和功能说明文档
-![welcome](/Users/hongjiayong/Desktop/OsPic/xiaohong.png)
+![welcome](/OsPic/xiaohong.png)
 ## 目录
 <!-- MarkdownTOC -->
 
