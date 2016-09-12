@@ -76,11 +76,9 @@
 <h3 id="项目管理平台"> 项目管理平台 </h3>
 **coding**
 	
-![coding](/Users/hongjiayong/Desktop/OsPic/coding1.png)
-![coding](/Users/hongjiayong/Desktop/OsPic/coding2.png)
+![coding](/OsPic/coding1.png)
+![coding](/OsPic/coding2.png)
 
->由于失误没有创建公有项目 助教和老师可以通过 账号tj_island@163.com 密码hjy673773登录coding
-在OS-Fighting中查看 
 
 **另外在github上我们也有项目存放**<br/>
 [github](https://github.com/Hjyheart/XHOS)
@@ -182,37 +180,37 @@
 | loginout | - | 登出 | No |
 
 <h3 id="welcome"> welcome </h3>
-![welcome](/Users/hongjiayong/Desktop/OsPic/welcome.png)
+![welcome](/OsPic/welcome.png)
 
 	键入welcome后将输出欢迎语句和小组成员列表
 	
 <h3 id="clear"> clear </h3>
-![clear](/Users/hongjiayong/Desktop/OsPic/clear.png)
+![clear](/OsPic/clear.png)
 
 	键入clear后将清屏并打印欢迎语句和小组成员列表
 	
 <h3 id="animation"> animation </h3>
-![animation](/Users/hongjiayong/Desktop/OsPic/donghua.png)
+![animation](/OsPic/donghua.png)
 
 	键入donghua后将执行开机动画打印蟠龙
 	
 <h3 id="ls"> ls </h3>
-![ls](/Users/hongjiayong/Desktop/OsPic/ls.png)
+![ls](/OsPic/ls.png)
 
 	键入ls后将输出当前用户下的文件列表
 
 <h3 id="proc"> proc </h3>
-![proc](/Users/hongjiayong/Desktop/OsPic/proc.png)
+![proc](/OsPic/proc.png)
 
 	键入proc后将输出当前所有进程的状态
 	
 <h3 id="help"> help </h3>
-![help](/Users/hongjiayong/Desktop/OsPic/help.png)
+![help](/OsPic/help.png)
 
 	键入help后将输出当前所有可用命令
 	
 <h3 id="saolei"> saolei </h3>
-![saolei](/Users/hongjiayong/Desktop/OsPic/saolei.png)
+![saolei](/OsPic/saolei.png)
 
 	键入saolei后即可开始扫雷游戏
 <h4 id="操作说明"> 操作说明 </h4>
@@ -220,7 +218,7 @@
 	输入q退出游戏
 
 <h3 id="2048"> 2048 </h3>
-![2048](/Users/hongjiayong/Desktop/OsPic/2048.png)
+![2048](/OsPic/2048.png)
 
 	键入2048后即可开始2048游戏
 <h4 id="操作说明-1"> 操作说明 </h4>
@@ -233,72 +231,72 @@
 | Q | 退出游戏 |
 
 <h3 id="caculator"> caculator </h3>
-![caculator](/Users/hongjiayong/Desktop/OsPic/caculator.png)
+![caculator](/OsPic/caculator.png)
 
 	键入caculator即可打开简易计算器
 <h4 id="操作说明-2"> 操作说明 </h4>
 	仅支持二元整数的加减乘除运算
 	键入q退出计算器
 <h3 id="duihua"> duihua </h3>
-![duihua](/Users/hongjiayong/Desktop/OsPic/对话.png)
+![duihua](/OsPic/对话.png)
 
 	键入duihua和参数字符串就能通过消息传递的机制打印字符串
 <h3 id="print"> print </h3>
-![print](/Users/hongjiayong/Desktop/OsPic/print.png)
+![print](p/OsPic/print.png)
 
 	键入print和参数字符串之后将会在控制台打印该字符串
 <h3 id="newfile"> newfile </h3>
-![newfile](/Users/hongjiayong/Desktop/OsPic/newfile.png)
+![newfile](/OsPic/newfile.png)
 
 	键入newfile和文件名之后将会在该用户目录下新建该文件，并初始化内容
 
-![newfile](/Users/hongjiayong/Desktop/OsPic/fileexist.png)
+![newfile](/OsPic/fileexist.png)
 
 	如果执行新建文件命令之后该文件存在的情况下将会给出文件存在的提示
 	
 <h3 id="read"> read </h3>
-![read](/Users/hongjiayong/Desktop/OsPic/read.png)
+![read](/OsPic/read.png)
 
 	键入read和文件名之后将会在该用户目录下查找该文件，找到之后将其内容输出
 
-![read](/Users/hongjiayong/Desktop/OsPic/readfail.png)
+![read](/OsPic/readfail.png)
 
 	如果未能查找到将会输出失败提示
 	
 <h3 id="delete"> delete </h3>
-![delete](/Users/hongjiayong/Desktop/OsPic/delete.png)
+![delete](/OsPic/delete.png)
 
 	键入delete和文件名之后将会在该用户目录下查找该文件，找到之后将其删除，我们可以
 	看到删除后再次读取文件已经找不到了
 
 <h3 id="edit+"> edit+ </h3>
-![edit+](/Users/hongjiayong/Desktop/OsPic/edit+.png)
+![edit+](/OsPic/edit+.png)
 
 	键入edit+和文件名及追加字符串之后将在原文件内容后追加内容
 	
 <h3 id="edit"> edit </h3>
-![edit](/Users/hongjiayong/Desktop/OsPic/edit.png)
+![edit](/OsPic/edit.png)
 
 	键入edit和文件名及覆盖字符串之后将以该字符串覆盖原内容
 	
 <h3 id="add"> add </h3>
-![add](/Users/hongjiayong/Desktop/OsPic/add.png)
+![add](/OsPic/add.png)
 
 	键入add和用户名及密码之后键入系统管理密码就可以新建用户，新建完毕之后就可以用用
 	户名和密码进行登录
 	
 <h3 id="move"> move </h3>
-![move](/Users/hongjiayong/Desktop/OsPic/move.png)
+![move](/OsPic/move.png)
 
 	键入move和用户名及密码之后键入管理员密码就可以删除相应用户，再次登录就失效了
 	
 <h3 id="login"> login </h3>
-![login](/Users/hongjiayong/Desktop/OsPic/login.png)
+![login](/OsPic/login.png)
 
 	键入login和用户名及密码就可以执行登录操作
 
 <h3 id="loginout"> loginout </h3>
-![loginout](/Users/hongjiayong/Desktop/OsPic/loginout.png)
+![loginout](/OsPic/loginout.png)
 
 	键入loginout后就会执行登出操作，退后初始状态
 	
@@ -308,23 +306,23 @@
 	目录下。只有在登录之后才有权限操作属于自己的文件，用户之间的文件是相互隔离的。
 
 <h4 id="例子"> 例子 </h4>
-![example](/Users/hongjiayong/Desktop/OsPic/user1.png)
+![example](/OsPic/user1.png)
 
 > 一. 新建两个用户hjy和xia 密码分别为hjy和xia
 
-![example](/Users/hongjiayong/Desktop/OsPic/user2.png)
+![example](/OsPic/user2.png)
 
 > 二. 登录hjy之后新建文件test和test1，执行ls后将会看到目录下有test和test1
 
-![example](/Users/hongjiayong/Desktop/OsPic/user3.png)
+![example](/OsPic/user3.png)
 
 > 三. 登录xia之后新建和hjy的同名文件test，内容与hjy的test不同，在执行read之后不会混淆
 
 <h3 id="文件恢复和用户记录功能"> 文件恢复和用户记录功能 </h3>
-![file](/Users/hongjiayong/Desktop/OsPic/file1.png)
+![file](/OsPic/file1.png)
 >一. 登录xia，新建一个文件test，然后关闭操作系统
 
-![file](/Users/hongjiayong/Desktop/OsPic/file2.png)
+![file](/OsPic/file2.png)
 >二. 再次打开操作系统，可以直接登录xia，用户的信息还在，直接读取test可以看到文件都还在
 
 <h2 id="参考文献"> 参考文献 </h2>
